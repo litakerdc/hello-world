@@ -1,2 +1,2 @@
 # hello-world
-This is a tutorial.
+I am Dylan. I am a student. This is my tutorial progress.
